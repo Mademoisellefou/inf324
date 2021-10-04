@@ -1,0 +1,5 @@
+C:\Users\libia\Documents\Visual Studio 2012\Projects\clase8\clase8\bin\clase8.dll
+C:\Users\libia\Documents\Visual Studio 2012\Projects\clase8\clase8\bin\clase8.pdb
+C:\Users\libia\Documents\Visual Studio 2012\Projects\clase8\clase8\obj\Debug\ejercicio3.csprojResolveAssemblyReference.cache
+C:\Users\libia\Documents\Visual Studio 2012\Projects\clase8\clase8\obj\Debug\clase8.dll
+C:\Users\libia\Documents\Visual Studio 2012\Projects\clase8\clase8\obj\Debug\clase8.pdb

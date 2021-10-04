@@ -1,0 +1,88 @@
+.cabecera {
+  
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("header.jpg");
+  height: 220px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+
+.cabecera-text {
+  width: fit-content;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+body{
+width:100%;
+font-family: sans-serif;
+background-color: rgb(238, 235, 235);
+}
+
+.horizontal ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(23, 58, 255);
+}
+
+.horizontal li {
+  float: left;
+  width: 33%;
+}
+
+.horizontal li a {
+  text-transform: uppercase;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.horizontal li a:hover {
+  background-color: rgb(35, 19, 250);
+}
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+  padding-top:5rem;
+}
+
+
+.fila{
+  padding-left: 5rem;
+  margin: 2 -5px;
+}
+
+
+.fila:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 40px;
+  }
+}
+
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 32px;
+  text-align: center;
+  background-color: #f1f1f1;
+}

@@ -1,0 +1,7 @@
+c:\users\libia\documents\visual studio 2012\Projects\clase8\clase8\bin\clase8.dll
+c:\users\libia\documents\visual studio 2012\Projects\clase8\clase8\bin\clase8.pdb
+c:\users\libia\documents\visual studio 2012\Projects\clase8\clase8\obj\Debug\clase8.dll
+c:\users\libia\documents\visual studio 2012\Projects\clase8\clase8\obj\Debug\clase8.pdb
+C:\Users\libia\Documents\Visual Studio 2012\Projects\clase8\clase8\bin\clase8.dll.config
+C:\Users\libia\Documents\Visual Studio 2012\Projects\clase8\clase8\obj\Debug\clase8.csproj.AssemblyReference.cache
+C:\Users\libia\Documents\Visual Studio 2012\Projects\clase8\clase8\obj\Debug\clase8.csproj.CoreCompileInputs.cache
