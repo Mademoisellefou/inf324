@@ -1,0 +1,128 @@
+.fondosc{
+	height: 200;
+	border: none;
+	overflow: auto;
+}
+.cabecera{
+	background-color: #002c2c;
+	background: linear-gradient(#002c2c, #000000);
+	height: 200;
+	float: none;
+	color: cornsilk;	
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.alineacion{
+	display: flex;
+    align-items: center;
+}
+.alineacionc{
+	display: flex;
+    align-items: center;
+}
+body{ 
+   margin: 0% ;
+}
+.formulario{
+	text-align: center;
+	text-decoration: none;
+	margin: 20 auto;
+	width: 40%;
+	font-weight: normal;
+	border-radius: 20px;
+	background-color: #ececdb;
+	color:black;
+    align-items: center;
+	padding: 5;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.borde{
+	border:2px solid #c7c7b5;
+	border-radius: 10px ;
+	height: 54;
+}
+.formulario input,a{
+	width: 100%;	
+	height: 54;
+	text-decoration: none;
+	margin: 0;
+	outline: none;
+	border:none;
+	border-radius: 0 10px 10px 0;
+}
+
+.boton1{
+	width: 100%;
+	background-color:#002c2c ;
+	height: 54;
+	color: #ffffff;
+	border-radius: 10px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	border: none;
+	text-decoration: none;
+}
+.boton1:hover{
+	background-color:rgb(0, 0, 0);
+}
+
+
+.tabla{
+	border-collapse: separate;
+    border-spacing: 0;
+    border: 1px solid #ececdb;
+    border-radius: 10px;
+    -moz-border-radius: 20px;
+	margin: 0 auto;
+	table-layout: fixed;
+	width: 90%;
+	background: #ececdb;	
+	
+}
+
+.tabla th, td {
+	padding: 8px; 
+	text-align: left;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	
+}
+
+.tabla th {
+	background:  #002c2c;
+	color: white;
+	text-transform: uppercase;
+	font-weight: normal;
+}
+.tabla th:first-child { 
+    border-top-left-radius: 10px; 
+}
+.tabla th:last-child {   
+    border-top-right-radius: 10px; 
+}
+.contenido{
+	width: 90%;
+	margin: 0 auto;
+}
+
+@media screen and (max-width:900px){
+	.cabecera{
+		font-size: 85%;
+	}
+	.formulario{
+		width: 60%;
+	}
+	.alineacionc{
+		display: block;
+	}
+}
+@media screen and (max-width:500px){
+   .cabecera{
+	   font-size: 70%;
+   }
+   .formulario{
+	width: 80%;
+	}
+	.alineacionc{
+		display: block;
+	}
+}
