@@ -1,0 +1,9 @@
+M:\inf324\Trabajo3\Clasificador_Colores\Clasificador_Colores\bin\Debug\Clasificador_Colores.exe.config
+M:\inf324\Trabajo3\Clasificador_Colores\Clasificador_Colores\bin\Debug\Clasificador_Colores.exe
+M:\inf324\Trabajo3\Clasificador_Colores\Clasificador_Colores\bin\Debug\Clasificador_Colores.pdb
+M:\inf324\Trabajo3\Clasificador_Colores\Clasificador_Colores\obj\Debug\Clasificador_Colores.csprojResolveAssemblyReference.cache
+M:\inf324\Trabajo3\Clasificador_Colores\Clasificador_Colores\obj\Debug\Clasificador_Colores.Form1.resources
+M:\inf324\Trabajo3\Clasificador_Colores\Clasificador_Colores\obj\Debug\Clasificador_Colores.Properties.Resources.resources
+M:\inf324\Trabajo3\Clasificador_Colores\Clasificador_Colores\obj\Debug\Clasificador_Colores.csproj.GenerateResource.Cache
+M:\inf324\Trabajo3\Clasificador_Colores\Clasificador_Colores\obj\Debug\Clasificador_Colores.exe
+M:\inf324\Trabajo3\Clasificador_Colores\Clasificador_Colores\obj\Debug\Clasificador_Colores.pdb
